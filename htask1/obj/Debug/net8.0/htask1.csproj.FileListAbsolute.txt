@@ -1,0 +1,15 @@
+D:\GBPr2\HomeTask3\htask1\bin\Debug\net8.0\htask1.exe
+D:\GBPr2\HomeTask3\htask1\bin\Debug\net8.0\htask1.deps.json
+D:\GBPr2\HomeTask3\htask1\bin\Debug\net8.0\htask1.runtimeconfig.json
+D:\GBPr2\HomeTask3\htask1\bin\Debug\net8.0\htask1.dll
+D:\GBPr2\HomeTask3\htask1\bin\Debug\net8.0\htask1.pdb
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\htask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\htask1.AssemblyInfoInputs.cache
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\htask1.AssemblyInfo.cs
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\htask1.csproj.CoreCompileInputs.cache
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\htask1.sourcelink.json
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\htask1.dll
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\refint\htask1.dll
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\htask1.pdb
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\htask1.genruntimeconfig.cache
+D:\GBPr2\HomeTask3\htask1\obj\Debug\net8.0\ref\htask1.dll
